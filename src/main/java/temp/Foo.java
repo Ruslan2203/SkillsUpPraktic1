@@ -16,8 +16,6 @@ public class Foo {
         System.out.println("baz");
     }
 
-    public void bac(){
-        System.out.println("bac");
-    }
+
 
 }
