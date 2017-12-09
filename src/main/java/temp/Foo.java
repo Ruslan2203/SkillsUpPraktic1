@@ -16,6 +16,6 @@ public class Foo {
         System.out.println("baz");
     }
 
-
+    public void bac(){ System.out.println("modify some lines in class Foo"); }
 
 }
