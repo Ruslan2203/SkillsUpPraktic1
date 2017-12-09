@@ -1,3 +1,5 @@
+package temp;
+
 /**
  * @author Anton Chernetskij
  */
